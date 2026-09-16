@@ -1,0 +1,19 @@
+# Identifiants (voir .env.example et secrets.example.h)
+.env
+firmware/cyd_mqtt_display/secrets.h
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build / éditeurs
+build/
+.vscode/
+.idea/
+
+# Système
+Thumbs.db
+desktop.ini
+.DS_Store

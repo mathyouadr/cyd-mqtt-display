@@ -1,0 +1,5 @@
+discord.py>=2.0
+paho-mqtt>=2.0
+pillow
+aiohttp
+python-dotenv
