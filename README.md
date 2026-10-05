@@ -2,6 +2,8 @@
 
 Afficher du texte et des images à distance sur un écran **ESP32 Cheap Yellow Display (CYD)**, via MQTT (HiveMQ Cloud, TLS) — depuis Discord ou depuis un PC.
 
+<p align="center"><img src="docs/images/cyd-mqtt-display.jpg" alt="CYD MQTT Display dans son boîtier imprimé en 3D" width="360" /></p>
+
 ```
 Discord (/texte, /image…) ──► controller/bot.py ─────────┐
                                                          ├──► Broker MQTT ──► CYD (firmware ESP32)
